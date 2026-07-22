@@ -29,5 +29,5 @@ git clone https://github.com/TarunRepo/Vehicle-Number-Plate-Detection.git
 pip install -r requirements.txt
 
 # Run the detection pipeline
-python src/main.py --input video.mp4
+python src/main.py
 ```
